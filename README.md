@@ -31,8 +31,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Array
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
