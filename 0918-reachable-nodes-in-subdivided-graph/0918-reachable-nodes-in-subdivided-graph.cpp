@@ -1,9 +1,10 @@
+int mp[3005][3005];
 class Solution {
 public:
     int reachableNodes(vector<vector<int>>& edges, int maxMoves, int n) {
         int N = n;
         vector<array<int, 2>> adj[N];
-        unordered_map<int, unordered_map<int, int>> mp;
+        memset(mp, -1, sizeof mp);
         for(auto &e: edges){
             int u = e[0], v = e[1], w = e[2] + 1;
             adj[u].push_back({v, w});
@@ -33,7 +34,7 @@ public:
         for(int i = 0; i < N; ++i){
             if(dist[i] <= maxMoves) ans++;
             for(int j = i + 1; j < N; ++j){
-                if(mp[i].count(j) == 0) continue;
+                if(mp[i][j] == -1) continue;
                 int cnti = mp[i][j], n1 = max(0, maxMoves - dist[i]), n2 = max(0, maxMoves - dist[j]);
                 int cur_ans = min(cnti, n1 + n2);
                 ans += cur_ans;
