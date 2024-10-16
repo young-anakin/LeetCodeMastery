@@ -14,7 +14,6 @@ class Solution:
                 if ans[-1] == letter and ans[-2] == letter:
                     if heap:
                         val2, letter2 = heapq.heappop(heap)
-                        print("ans2", val2, letter2)
                         curr = letter2
                         heapq.heappush(heap, (val, letter))
                         val = val2
@@ -24,9 +23,6 @@ class Solution:
                         break             
                     
 
-            # fl = True
-            print("ans", val, letter)
-            print("curr", curr)
             if c != 0 and curr == "c":
                 if len(ans) <= 1:
                     ans.append("c")
