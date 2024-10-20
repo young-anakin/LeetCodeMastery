@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
+| [1293-three-consecutive-odds](https://github.com/young-anakin/LeetCodeMastery/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
