@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/young-anakin/LeetCodeMastery/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/young-anakin/LeetCodeMastery/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/young-anakin/LeetCodeMastery/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/young-anakin/LeetCodeMastery/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
