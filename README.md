@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Graph
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/young-anakin/LeetCodeMastery/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -208,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
+## Matrix
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
