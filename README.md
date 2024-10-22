@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3195-separate-black-and-white-balls](https://github.com/young-anakin/LeetCodeMastery/tree/master/3195-separate-black-and-white-balls) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/young-anakin/LeetCodeMastery/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1333-sort-the-jumbled-numbers) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/young-anakin/LeetCodeMastery/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
