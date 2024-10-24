@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2235-capitalize-the-title](https://github.com/young-anakin/LeetCodeMastery/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3195-separate-black-and-white-balls](https://github.com/young-anakin/LeetCodeMastery/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
