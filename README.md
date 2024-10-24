@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
