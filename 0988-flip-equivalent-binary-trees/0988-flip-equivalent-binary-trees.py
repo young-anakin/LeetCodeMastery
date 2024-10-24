@@ -38,12 +38,5 @@ class Solution:
         if root2:
             parents2[root2.val] = -1
 
-        for key, val in parents.items():
-            if parents[key] != parents2[key]:
-                return False
-            
-        for key, val in parents2.items():
-            if parents[key] != parents2[key]:
-                return False
         
-        return True
+        return parents == parents2
