@@ -5,7 +5,7 @@ class Solution:
         fl = True
         for ind in range(0, len(nums)):
             if fl:
-                sm += min(nums[ind], nums[ind+1])
+                sm += nums[ind]
                 fl = False
             else:
                 fl = True
