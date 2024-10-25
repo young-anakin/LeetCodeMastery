@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0661-image-smoother](https://github.com/young-anakin/LeetCodeMastery/tree/master/0661-image-smoother) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
 | [1293-three-consecutive-odds](https://github.com/young-anakin/LeetCodeMastery/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/young-anakin/LeetCodeMastery/tree/master/0661-image-smoother) |
 | [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
 ## String Matching
 |  |
