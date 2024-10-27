@@ -3,7 +3,7 @@ class Solution:
         rows = len(matrix)
         cols = len(matrix[0])
 
-        nums = matrix
+        # nums = matrix
 
         # Create a DP table with the same dimensions as the matrix
         dp = [[0] * cols for _ in range(rows)]
@@ -12,7 +12,7 @@ class Solution:
 
         for ind in range(rows):
             for j in range(cols):
-                if nums[ind][j] == 1:
+                if matrix[ind][j] == 1:
                     if ind == 0 or j == 0:
                         dp[ind][j] = 1
                     
