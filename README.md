@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/young-anakin/LeetCodeMastery/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/young-anakin/LeetCodeMastery/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/young-anakin/LeetCodeMastery/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/young-anakin/LeetCodeMastery/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/young-anakin/LeetCodeMastery/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2586-longest-square-streak-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/young-anakin/LeetCodeMastery/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/young-anakin/LeetCodeMastery/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/young-anakin/LeetCodeMastery/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
+| [2586-longest-square-streak-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2586-longest-square-streak-in-an-array) |
 ## Tree
 |  |
 | ------- |
