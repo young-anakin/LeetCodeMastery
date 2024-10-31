@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/young-anakin/LeetCodeMastery/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/young-anakin/LeetCodeMastery/tree/master/0300-longest-increasing-subsequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Backtracking
 |  |
