@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
 | [0742-to-lower-case](https://github.com/young-anakin/LeetCodeMastery/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1304-longest-happy-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/young-anakin/LeetCodeMastery/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
