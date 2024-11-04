@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3195-separate-black-and-white-balls](https://github.com/young-anakin/LeetCodeMastery/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3451-string-compression-iii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
 | ------- |
