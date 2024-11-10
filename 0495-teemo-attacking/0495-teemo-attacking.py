@@ -1,10 +1,16 @@
 class Solution:
     def findPoisonedDuration(self, timeSeries: List[int], duration: int) -> int:
-        n = len(timeSeries)
-        if n == 0:
-            return 0
+        ans = 0
+        curr = 0
+        prev = 0
+        for ind in timeSeries:
+            
+            curr = ind + duration
+            ans += duration
+
+            if ind < prev:
+                ans -= abs(ind-prev)
+            # print(prev, curr)
+            prev = curr
         
-        total = 0
-        for i in range(n - 1):
-            total += min(timeSeries[i + 1] - timeSeries[i], duration)
-        return total + duration
+        return ans
