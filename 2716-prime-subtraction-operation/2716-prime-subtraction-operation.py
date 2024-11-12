@@ -21,7 +21,7 @@ class Solution:
         ans = []
         ss = set()
         ss.add(-1)
-        print(primes)
+        # print(primes)
 
         nums = nums[::-1]
         for ind in nums:
@@ -35,7 +35,7 @@ class Solution:
                     sub = abs(ans[-1] - ind) + 1
 
                     x = bisect_left(primes, sub)
-                    print(sub, x)
+                    # print(sub, x)
                     if x >= len(primes):
                         return False
                     if ind - primes[x] <= 0:
@@ -50,5 +50,5 @@ class Solution:
             first = ans[ind]
         
         
-        print(ans)
+        # print(ans)
         return True
