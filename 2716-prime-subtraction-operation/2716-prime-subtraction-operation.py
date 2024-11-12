@@ -19,8 +19,6 @@ class Solution:
                 primes.append(ind)
         
         ans = []
-        ss = set()
-        ss.add(-1)
         # print(primes)
 
         nums = nums[::-1]
