@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0904-leaf-similar-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/young-anakin/LeetCodeMastery/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
+| [0904-leaf-similar-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/young-anakin/LeetCodeMastery/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
+| [0904-leaf-similar-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/young-anakin/LeetCodeMastery/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
