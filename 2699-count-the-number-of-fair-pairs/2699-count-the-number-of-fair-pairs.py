@@ -15,8 +15,5 @@ class Solution:
             mx = bisect_right(nums, maximumOption, ind+1)-1
 
             if mn <= mx:
-                if ind + mn == ind:
-                    ans += abs(mn - mx)
-                else:
-                    ans += abs(mx - mn)+1
+                ans += abs(mx - mn)+1
         return ans
