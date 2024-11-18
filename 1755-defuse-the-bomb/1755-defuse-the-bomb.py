@@ -1,31 +1,24 @@
 class Solution:
     def decrypt(self, code: List[int], k: int) -> List[int]:
-        ln = len(code)
-        code.extend(code)
-        ans = [0 for i in range(ln)]
-        if k == 0:
-            return ans
-        start = 0
-        if k < 0:
-            ans = []
-            k = abs(k)
-            start = ln
-            for ind in range(start, start + ln):
+        arr = []
+        arr.extend(code)
+        arr.extend(code)
+        print(arr)
+        ans = []
+        for ind in range(len(code)):
+            if k > 0:
                 sm = 0
-                cp = ind -1
-                for j in range(k):
-                    sm += code[cp]
-                    cp -=1
+                for j in range(ind+1, ind + k +1):
+                    sm += arr[j]
                 ans.append(sm)
-
-        else:
-            ans = []
-            for ind in range(0, ln):
+            elif k == 0:
+                ans.append(0)
+            else:
+                # print("YO", ind+len(code)-1, (ind+len(code)-1) + k)
                 sm = 0
-                for j in range(1, k+1):
-                    sm += code[ind + j]
+                for j in range(ind+len(code)-1, (ind+len(code)-1)+k, -1):
+                    # print(arr[j])
+                    sm += arr[j]
                 ans.append(sm)
-            return ans
-
-
-        return ans
+        
+        return (ans)
