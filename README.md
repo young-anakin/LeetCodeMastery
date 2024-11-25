@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
