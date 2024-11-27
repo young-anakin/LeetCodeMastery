@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0203-remove-linked-list-elements) |
 ## Simulation
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
@@ -423,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
