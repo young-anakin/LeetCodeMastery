@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/young-anakin/LeetCodeMastery/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/young-anakin/LeetCodeMastery/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0065-valid-number) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/young-anakin/LeetCodeMastery/tree/master/0012-integer-to-roman) |
 | [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/young-anakin/LeetCodeMastery/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0258-add-digits) |
 | [0492-construct-the-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0492-construct-the-rectangle) |
