@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3373-maximum-prime-difference](https://github.com/young-anakin/LeetCodeMastery/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0670-maximum-swap) |
 | [2645-pass-the-pillow](https://github.com/young-anakin/LeetCodeMastery/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2716-prime-subtraction-operation) |
+| [3373-maximum-prime-difference](https://github.com/young-anakin/LeetCodeMastery/tree/master/3373-maximum-prime-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2716-prime-subtraction-operation) |
+| [3373-maximum-prime-difference](https://github.com/young-anakin/LeetCodeMastery/tree/master/3373-maximum-prime-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
