@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
