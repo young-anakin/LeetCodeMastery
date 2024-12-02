@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/young-anakin/LeetCodeMastery/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/young-anakin/LeetCodeMastery/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/young-anakin/LeetCodeMastery/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/young-anakin/LeetCodeMastery/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
+| [1197-parsing-a-boolean-expression](https://github.com/young-anakin/LeetCodeMastery/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
 |  |
