@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/young-anakin/LeetCodeMastery/tree/master/0012-integer-to-roman) |
 | [0133-clone-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/young-anakin/LeetCodeMastery/tree/master/0138-copy-list-with-random-pointer) |
 | [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/young-anakin/LeetCodeMastery/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/young-anakin/LeetCodeMastery/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0203-remove-linked-list-elements) |
