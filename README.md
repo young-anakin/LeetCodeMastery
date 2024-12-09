@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3373-maximum-prime-difference](https://github.com/young-anakin/LeetCodeMastery/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3427-special-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/young-anakin/LeetCodeMastery/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3427-special-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3427-special-array-ii) |
 ## Tree
 |  |
 | ------- |
