@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/young-anakin/LeetCodeMastery/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/young-anakin/LeetCodeMastery/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/young-anakin/LeetCodeMastery/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/young-anakin/LeetCodeMastery/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/2580-circular-sentence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/young-anakin/LeetCodeMastery/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/young-anakin/LeetCodeMastery/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/young-anakin/LeetCodeMastery/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/young-anakin/LeetCodeMastery/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/young-anakin/LeetCodeMastery/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/young-anakin/LeetCodeMastery/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
