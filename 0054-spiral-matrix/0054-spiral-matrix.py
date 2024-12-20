@@ -2,10 +2,14 @@ class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         ans  = []
         arr = matrix
+
+
         right = True
         down = False
         left = False
         up = False
+
+
         ind = 0
         j = 0
 
@@ -15,9 +19,7 @@ class Solution:
         sideR = 0
         print(len(matrix) * len(matrix[0]))
         for cp in range(len(matrix) * len(matrix[0])):
-            # print(cp)
             if right:
-                # print(ind, j, "right")
                 if j >= len(arr[0]) - sideR:
                     down = True
                     right = False
@@ -27,10 +29,7 @@ class Solution:
                 else:
                     ans.append(arr[ind][j])
                     j +=1
-
-
-
-            
+                    
             if down:
                 if ind >= len(arr) - bottom:
                     down = False
@@ -42,8 +41,6 @@ class Solution:
                     ans.append(arr[ind][j])
                     ind +=1
 
-
-            
             if left:
                 if j < 0 + sideL:
                     up = True
@@ -54,7 +51,6 @@ class Solution:
                 else:
                     ans.append(arr[ind][j])
                     j -=1
-
 
             fl = False
             if up:
@@ -71,7 +67,6 @@ class Solution:
 
 
             if fl and right:
-                # print(ind, j, "right")
                 fl = False
                 if j >= len(arr[0]) - sideR:
                     down = True
@@ -82,9 +77,6 @@ class Solution:
                 else:
                     ans.append(arr[ind][j])
                     j +=1
-
-            
-            print(ans, up, down, left, right)
         
         return ans
 
