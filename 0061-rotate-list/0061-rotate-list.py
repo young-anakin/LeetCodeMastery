@@ -39,4 +39,3 @@ class Solution:
         fin = fin.next
         return fin
         # curr.next = head
-
