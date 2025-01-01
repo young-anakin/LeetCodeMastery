@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/young-anakin/LeetCodeMastery/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/young-anakin/LeetCodeMastery/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/young-anakin/LeetCodeMastery/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/young-anakin/LeetCodeMastery/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0142-linked-list-cycle-ii) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
