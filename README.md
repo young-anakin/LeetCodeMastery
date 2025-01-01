@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
+| [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/young-anakin/LeetCodeMastery/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0338-counting-bits) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/young-anakin/LeetCodeMastery/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/young-anakin/LeetCodeMastery/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0258-add-digits) |
 | [0492-construct-the-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0507-perfect-number) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [1197-parsing-a-boolean-expression](https://github.com/young-anakin/LeetCodeMastery/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
