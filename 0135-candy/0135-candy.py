@@ -1,14 +1,21 @@
 class Solution:
     def candy(self, ratings: List[int]) -> int:
-        n = len(ratings)
-        candies = [1] * n 
+        cp = 0
+        candies = [1]
+        for ind in range(len(ratings)-1):
+            if ratings[ind] < ratings[ind+1]:
+                candies.append(1 +  candies[-1])
+            else:
+                candies.append(1)
 
-        for i in range(1, n):
-            if ratings[i] > ratings[i - 1]:
-                candies[i] = candies[i - 1] + 1
-
-        for i in range(n - 2, -1, -1):
-            if ratings[i] > ratings[i + 1] and candies[i] <= candies[i + 1]:
-                candies[i] = candies[i + 1] + 1
-
+        i = len(ratings)-2
+        while i >= 0:
+            if ratings[i] > ratings[i+1]:
+                if candies[i] <= candies[i+1]:
+                    candies[i] = candies[i+1] + 1
+            
+            i -=1
+         
+        # 
+        # print(candies)
         return sum(candies)
