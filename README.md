@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/young-anakin/LeetCodeMastery/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0670-maximum-swap) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/young-anakin/LeetCodeMastery/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/young-anakin/LeetCodeMastery/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/young-anakin/LeetCodeMastery/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
