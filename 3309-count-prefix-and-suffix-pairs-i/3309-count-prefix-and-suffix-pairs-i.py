@@ -6,7 +6,6 @@ class Solution:
                 if ind == j:
                     continue
                 if words[j][0:len(words[ind])] == words[ind] and words[j][-len(words[ind]):] == words[ind]:
-                    print(words[j], words[ind])
                     cp +=1
         
         return cp
