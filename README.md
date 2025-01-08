@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/young-anakin/LeetCodeMastery/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/young-anakin/LeetCodeMastery/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/young-anakin/LeetCodeMastery/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/young-anakin/LeetCodeMastery/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/young-anakin/LeetCodeMastery/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/young-anakin/LeetCodeMastery/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/young-anakin/LeetCodeMastery/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/young-anakin/LeetCodeMastery/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/young-anakin/LeetCodeMastery/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/young-anakin/LeetCodeMastery/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/young-anakin/LeetCodeMastery/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/young-anakin/LeetCodeMastery/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/young-anakin/LeetCodeMastery/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
