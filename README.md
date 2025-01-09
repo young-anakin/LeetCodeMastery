@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/young-anakin/LeetCodeMastery/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/young-anakin/LeetCodeMastery/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/2439-longest-cycle-in-a-graph) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/young-anakin/LeetCodeMastery/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3189-find-champion-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3189-find-champion-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/young-anakin/LeetCodeMastery/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/young-anakin/LeetCodeMastery/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/young-anakin/LeetCodeMastery/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/young-anakin/LeetCodeMastery/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/young-anakin/LeetCodeMastery/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/young-anakin/LeetCodeMastery/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## String
 |  |
 | ------- |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/young-anakin/LeetCodeMastery/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
 |  |
 | ------- |
