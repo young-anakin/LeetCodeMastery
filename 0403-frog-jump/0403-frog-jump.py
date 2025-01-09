@@ -1,13 +1,17 @@
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
-        dp = {stone: set() for stone in stones}
-        dp[0].add(0)
-        n = len(stones)
+        dd = defaultdict(set)
+        dd[0].add(0)
 
-        for stone in stones:
-            for jump in dp[stone]:
-                for jump_distance in [jump-1, jump, jump+1]:
-                    if jump_distance > 0 and stone + jump_distance in dp:
-                        dp[stone + jump_distance].add(jump_distance)
+        ss = set()
+        for ind in stones:
+            ss.add(ind)
         
-        return len(dp[stones[-1]]) > 0
+        dir = [-1, 0 , 1]
+        for stone in stones:
+            for jump in dd[stone]:
+                for d in [jump-1, jump+1, jump]:
+                    if d > 0 and stone + d in ss:
+                        dd[stone + d].add(d)
+        
+        return len(dd[stones[-1]]) > 0
