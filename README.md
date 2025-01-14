@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/young-anakin/LeetCodeMastery/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/young-anakin/LeetCodeMastery/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/young-anakin/LeetCodeMastery/tree/master/1917-maximum-average-pass-ratio) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/young-anakin/LeetCodeMastery/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/young-anakin/LeetCodeMastery/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/young-anakin/LeetCodeMastery/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2586-longest-square-streak-in-an-array) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
+| [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 ## Quickselect
 |  |
 | ------- |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
+| [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 ## Design
 |  |
 | ------- |
@@ -666,11 +670,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
+| [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
+| [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -683,4 +689,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0164-maximum-gap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
