@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/young-anakin/LeetCodeMastery/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/young-anakin/LeetCodeMastery/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/young-anakin/LeetCodeMastery/tree/master/0135-candy) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/young-anakin/LeetCodeMastery/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/young-anakin/LeetCodeMastery/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/young-anakin/LeetCodeMastery/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
