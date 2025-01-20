@@ -705,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
+## Database
+|  |
+| ------- |
+| [3767-find-students-who-improved](https://github.com/young-anakin/LeetCodeMastery/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
