@@ -15,4 +15,3 @@ class Solution(object):
                 a = b+1
             b+=1
         return parti
-        
