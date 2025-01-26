@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
 | [0742-to-lower-case](https://github.com/young-anakin/LeetCodeMastery/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
 | [0926-find-and-replace-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0926-find-and-replace-pattern) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1304-longest-happy-string) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
 | [0926-find-and-replace-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0926-find-and-replace-pattern) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/young-anakin/LeetCodeMastery/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
+| [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/young-anakin/LeetCodeMastery/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
