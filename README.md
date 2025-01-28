@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/young-anakin/LeetCodeMastery/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/young-anakin/LeetCodeMastery/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/young-anakin/LeetCodeMastery/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/young-anakin/LeetCodeMastery/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2716-prime-subtraction-operation) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/young-anakin/LeetCodeMastery/tree/master/2846-robot-collisions) |
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
 | [1396-count-servers-that-communicate](https://github.com/young-anakin/LeetCodeMastery/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/young-anakin/LeetCodeMastery/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String Matching
 |  |
