@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/young-anakin/LeetCodeMastery/tree/master/1197-parsing-a-boolean-expression) |
+| [1272-invalid-transactions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1272-invalid-transactions) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1304-longest-happy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/young-anakin/LeetCodeMastery/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/young-anakin/LeetCodeMastery/tree/master/1025-minimum-cost-for-tickets) |
+| [1272-invalid-transactions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1272-invalid-transactions) |
 | [1293-three-consecutive-odds](https://github.com/young-anakin/LeetCodeMastery/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1333-sort-the-jumbled-numbers) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
 | [0926-find-and-replace-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0926-find-and-replace-pattern) |
+| [1272-invalid-transactions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/young-anakin/LeetCodeMastery/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/young-anakin/LeetCodeMastery/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/0780-max-chunks-to-make-sorted) |
+| [1272-invalid-transactions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/young-anakin/LeetCodeMastery/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/young-anakin/LeetCodeMastery/tree/master/1468-check-if-n-and-its-double-exist) |
