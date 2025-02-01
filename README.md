@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/young-anakin/LeetCodeMastery/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3429-special-array-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
