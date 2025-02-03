@@ -738,5 +738,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/young-anakin/LeetCodeMastery/tree/master/0181-employees-earning-more-than-their-managers) |
 | [3767-find-students-who-improved](https://github.com/young-anakin/LeetCodeMastery/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
