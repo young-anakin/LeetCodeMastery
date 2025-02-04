@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
+| [0878-shifting-letters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0878-shifting-letters) |
 | [0926-find-and-replace-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/0780-max-chunks-to-make-sorted) |
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
+| [0878-shifting-letters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0926-find-and-replace-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0926-find-and-replace-pattern) |
 | [0945-snakes-and-ladders](https://github.com/young-anakin/LeetCodeMastery/tree/master/0945-snakes-and-ladders) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
+| [0878-shifting-letters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/young-anakin/LeetCodeMastery/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
