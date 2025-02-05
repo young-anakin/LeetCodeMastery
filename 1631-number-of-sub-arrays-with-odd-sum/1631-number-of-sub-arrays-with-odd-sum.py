@@ -21,8 +21,10 @@ class Solution:
                 oddCount +=1
                 ans += 1
                 ans += evenCount
+            
+            ans = ans % mod
         
-        return ans % mod
+        return ans
 
 
         print(prefix)
