@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/young-anakin/LeetCodeMastery/tree/master/0495-teemo-attacking) |
+| [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0661-image-smoother](https://github.com/young-anakin/LeetCodeMastery/tree/master/0661-image-smoother) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
+| [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
