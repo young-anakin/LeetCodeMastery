@@ -6,7 +6,7 @@ class Solution:
                 dd[nums[ind] * nums[j]] +=1
         
         sm = 0
-        print(dd)
+        # print(dd)
         for key, val in dd.items():
             if val > 1:
                 sm += val * (val-1)//2 *8
