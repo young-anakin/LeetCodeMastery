@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/young-anakin/LeetCodeMastery/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/young-anakin/LeetCodeMastery/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/young-anakin/LeetCodeMastery/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/young-anakin/LeetCodeMastery/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/young-anakin/LeetCodeMastery/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2645-pass-the-pillow](https://github.com/young-anakin/LeetCodeMastery/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2716-prime-subtraction-operation) |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/young-anakin/LeetCodeMastery/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
@@ -757,4 +761,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/young-anakin/LeetCodeMastery/tree/master/0181-employees-earning-more-than-their-managers) |
 | [3767-find-students-who-improved](https://github.com/young-anakin/LeetCodeMastery/tree/master/3767-find-students-who-improved) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
