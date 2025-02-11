@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/young-anakin/LeetCodeMastery/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/young-anakin/LeetCodeMastery/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/young-anakin/LeetCodeMastery/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/young-anakin/LeetCodeMastery/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/young-anakin/LeetCodeMastery/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/young-anakin/LeetCodeMastery/tree/master/2846-robot-collisions) |
 | [3447-clear-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/3447-clear-digits) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/young-anakin/LeetCodeMastery/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/young-anakin/LeetCodeMastery/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2343-count-unguarded-cells-in-the-grid) |
