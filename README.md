@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/0165-compare-version-numbers) |
+| [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0394-decode-string) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0904-leaf-similar-trees) |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0904-leaf-similar-trees) |
