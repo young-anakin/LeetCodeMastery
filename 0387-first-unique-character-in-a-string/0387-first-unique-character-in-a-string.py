@@ -1,11 +1,8 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        dd = defaultdict(int)
-        for ind in s:
-            dd[ind] +=1
+        cp = Counter(s)
+        for x, i in enumerate(s):
+            if cp[i] == 1:
+                return x
         
-        for ind, val in enumerate(s):
-            if dd[val] == 1:
-                return ind
-
         return -1
