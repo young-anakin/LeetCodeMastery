@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/young-anakin/LeetCodeMastery/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0394-decode-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/young-anakin/LeetCodeMastery/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
