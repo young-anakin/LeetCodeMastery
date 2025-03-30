@@ -11,24 +11,20 @@ class Solution:
 
         while list1 and list2:
             if list1.val < list2.val:
-                tmp = ListNode(list1.val)
-                dummy.next = tmp
+                dummy.next = ListNode(list1.val)
                 dummy = dummy.next
                 list1 = list1.next
             else:
-                tmp = ListNode(list2.val)
-                dummy.next = tmp
+                dummy.next = ListNode(list2.val)
                 dummy = dummy.next
                 list2 = list2.next
         
         while list1:
-            tmp = ListNode(list1.val)
-            dummy.next = tmp
+            dummy.next = ListNode(list1.val)
             dummy = dummy.next
             list1 = list1.next
         while list2:
-            tmp = ListNode(list2.val)
-            dummy.next = tmp
+            dummy.next =  ListNode(list2.val)
             dummy = dummy.next
             list2 = list2.next
         
