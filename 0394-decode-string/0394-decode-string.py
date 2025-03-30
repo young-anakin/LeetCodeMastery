@@ -7,10 +7,10 @@ class Solution:
         nums = "1234567890"
         for i in range(len(s)):
             if s[i] == "[":
-                print(i, s[i])
+                # print(i, s[i])
                 stack.append(s[i])
             elif s[i] == "]":
-                print("orig", stack)
+                # print("orig", stack)
                 repeat = []
                 value = []
                 while stack[-1] != "[":
@@ -23,11 +23,11 @@ class Solution:
                     repeat.append(stack.pop())
                 repeat = repeat[::-1]
 
-                print("Repeat and val", repeat, value)
+                # print("Repeat and val", repeat, value)
                 repeat = "".join(repeat)
                 for x in range(int(repeat)):
                     stack.append("".join(value))
-                print("changed", stack)
+                # print("changed", stack)
                 # for x in tmp:
                 #     stack.append(x)
             else:
