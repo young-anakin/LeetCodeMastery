@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/young-anakin/LeetCodeMastery/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/young-anakin/LeetCodeMastery/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0164-maximum-gap) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/young-anakin/LeetCodeMastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/young-anakin/LeetCodeMastery/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
