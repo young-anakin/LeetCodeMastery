@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/young-anakin/LeetCodeMastery/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/young-anakin/LeetCodeMastery/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0507-perfect-number) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/young-anakin/LeetCodeMastery/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
@@ -824,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
