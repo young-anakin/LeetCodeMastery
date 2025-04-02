@@ -2,10 +2,10 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         dd = defaultdict(int)
 
-        for i in range(len(nums)):
-            if target - nums[i] in dd:
-                return [i, dd[target-nums[i]]]
-            else:
-                dd[nums[i]] = i
+        for i, val in enumerate(nums):
+            dd[val] = i
+
         
-        return 
+        for i, val in enumerate(nums):
+            if target - val in dd and i != dd[target-val]:
+                return [i, dd[target-val]]
