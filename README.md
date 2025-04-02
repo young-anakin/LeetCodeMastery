@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0133-clone-graph) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
@@ -840,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
