@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/young-anakin/LeetCodeMastery/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
+| [1775-design-an-ordered-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/1775-design-an-ordered-stream) |
 | [1783-ways-to-make-a-fair-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/1783-ways-to-make-a-fair-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1876-map-of-highest-peak](https://github.com/young-anakin/LeetCodeMastery/tree/master/1876-map-of-highest-peak) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/young-anakin/LeetCodeMastery/tree/master/1512-design-underground-system) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1775-design-an-ordered-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/young-anakin/LeetCodeMastery/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1512-design-underground-system](https://github.com/young-anakin/LeetCodeMastery/tree/master/1512-design-underground-system) |
+| [1775-design-an-ordered-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/1775-design-an-ordered-stream) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/young-anakin/LeetCodeMastery/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Segment Tree
 |  |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
+| [1775-design-an-ordered-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/1775-design-an-ordered-stream) |
 ## Randomized
 |  |
 | ------- |
