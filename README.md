@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/young-anakin/LeetCodeMastery/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/young-anakin/LeetCodeMastery/tree/master/1025-minimum-cost-for-tickets) |
+| [1233-number-of-ships-in-a-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/1233-number-of-ships-in-a-rectangle) |
 | [1272-invalid-transactions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1272-invalid-transactions) |
 | [1293-three-consecutive-odds](https://github.com/young-anakin/LeetCodeMastery/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
+| [1233-number-of-ships-in-a-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/1233-number-of-ships-in-a-rectangle) |
 | [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 ## Quickselect
 |  |
@@ -855,4 +857,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0098-validate-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [1233-number-of-ships-in-a-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/1233-number-of-ships-in-a-rectangle) |
 <!---LeetCode Topics End-->
