@@ -1,27 +1,23 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         
-        # This dictionary will store letterCounts for me
+        if len(s) == 0:
+            return 0
+        # count the amount of characters
+        counter = defaultdict(int)
 
-        letterCount = defaultdict(int)
 
+        i = 0
+        j = 0
+        mx = 0
+        while i < len(s):
+            counter[s[i]] +=1
 
-        # Approach : I'll iterate over the string adding letter by letter into my dictionary. If I encounter a character that has a value more than 1, then that's the longest substring I've reached so far. I'll have to decrement from the start of my string upto which that letter becomes 1. 
-
-        standBy, leader = 0, 0
-        finishLine = len(s)
-        maxSubStr = 0
-        while leader < finishLine:
-
-            letterCount[s[leader]] +=1
-
-            while letterCount[s[leader]] > 1:
-                letterCount[s[standBy]] -=1
-                standBy +=1
+            while counter[s[i]] > 1:
+                counter[s[j]] -=1
+                j +=1
             
-            # maximum sub string is going to be the distance between the leader and the stand by guy
-            leader +=1
-            # print(standBy, leader, maxSubStr)
-            maxSubStr = max(maxSubStr, abs(standBy - leader))
+            mx = max(mx, abs(i-j))
+            i +=1
         
-        return maxSubStr
+        return mx+1
