@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/young-anakin/LeetCodeMastery/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/young-anakin/LeetCodeMastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/young-anakin/LeetCodeMastery/tree/master/0135-candy) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/young-anakin/LeetCodeMastery/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/young-anakin/LeetCodeMastery/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/young-anakin/LeetCodeMastery/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
