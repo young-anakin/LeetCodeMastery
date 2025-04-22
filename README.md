@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/young-anakin/LeetCodeMastery/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0661-image-smoother](https://github.com/young-anakin/LeetCodeMastery/tree/master/0661-image-smoother) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/young-anakin/LeetCodeMastery/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0778-reorganize-string) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
 | [0878-shifting-letters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
