@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/young-anakin/LeetCodeMastery/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/young-anakin/LeetCodeMastery/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
