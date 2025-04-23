@@ -1,19 +1,34 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        new = []
-        for ind in nums:
-            heapq.heappush(new, -1 * ind)
-        
 
-        i = 0
-        last = -1
-        while new:
-            val = heapq.heappop(new)
-            # if last != val:
-            #     i +=1
-            i +=1
-            if i == k:
-                return -1 * val
-            last = val
+        def split(arr):
+            if len(arr) <= 1:
+                return arr
             
+            md = len(arr)//2
+            first = arr[:md]
+            second = arr[md:]
+
+            first = split(first)
+            second = split(second)
+
+            return merge(first, second)
+
         
+        def merge(first, second):
+            i = 0
+            j = 0
+            new = []
+            while i < len(first) and j < len(second):
+                if first[i] < second[j]:
+                    new.append(first[i])
+                    i +=1
+                else:
+                    new.append(second[j])
+                    j +=1
+            
+            new.extend(first[i:])
+            new.extend(second[j:])
+            return new
+        
+        return(split(nums)[-k])
