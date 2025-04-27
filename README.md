@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/young-anakin/LeetCodeMastery/tree/master/1917-maximum-average-pass-ratio) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0926-find-and-replace-pattern) |
 | [0945-snakes-and-ladders](https://github.com/young-anakin/LeetCodeMastery/tree/master/0945-snakes-and-ladders) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/young-anakin/LeetCodeMastery/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/young-anakin/LeetCodeMastery/tree/master/1036-rotting-oranges) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/1233-number-of-ships-in-a-rectangle) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/0780-max-chunks-to-make-sorted) |
+| [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1272-invalid-transactions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1333-sort-the-jumbled-numbers) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0670-maximum-swap) |
+| [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -823,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/1233-number-of-ships-in-a-rectangle) |
 | [1772-create-sorted-array-through-instructions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1772-create-sorted-array-through-instructions) |
 ## Quickselect
@@ -830,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 ## Topological Sort
 |  |
 | ------- |
@@ -920,4 +926,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/1233-number-of-ships-in-a-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
