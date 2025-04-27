@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/young-anakin/LeetCodeMastery/tree/master/0684-redundant-connection) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/young-anakin/LeetCodeMastery/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/young-anakin/LeetCodeMastery/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/young-anakin/LeetCodeMastery/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/young-anakin/LeetCodeMastery/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0918-reachable-nodes-in-subdivided-graph) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/young-anakin/LeetCodeMastery/tree/master/0451-sort-characters-by-frequency) |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/young-anakin/LeetCodeMastery/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
@@ -755,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/young-anakin/LeetCodeMastery/tree/master/0684-redundant-connection) |
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
 | [1396-count-servers-that-communicate](https://github.com/young-anakin/LeetCodeMastery/tree/master/1396-count-servers-that-communicate) |
