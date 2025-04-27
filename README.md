@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/young-anakin/LeetCodeMastery/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/young-anakin/LeetCodeMastery/tree/master/0495-teemo-attacking) |
 | [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/young-anakin/LeetCodeMastery/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/young-anakin/LeetCodeMastery/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/young-anakin/LeetCodeMastery/tree/master/1025-minimum-cost-for-tickets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/young-anakin/LeetCodeMastery/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/young-anakin/LeetCodeMastery/tree/master/0661-image-smoother) |
 | [0945-snakes-and-ladders](https://github.com/young-anakin/LeetCodeMastery/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/young-anakin/LeetCodeMastery/tree/master/1036-rotting-oranges) |
