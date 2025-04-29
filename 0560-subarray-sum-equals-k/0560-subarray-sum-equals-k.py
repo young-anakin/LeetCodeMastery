@@ -1,23 +1,20 @@
 class Solution:
     def subarraySum(self, nums: List[int], k: int) -> int:
-        
-        # store for past records
-
-        ps = nums
-        
-        # for i in range(len(nums)):
-        #     ps.append(ps[-1] + nums[i])
-
-        dd = defaultdict(int)
-        dd[0] +=1
-        ans = 0
         sm = 0
-        for i in ps:
-            sm += i
-            ans += dd[sm - k]
-            dd[sm] += 1
+        memo = defaultdict(int)
+        memo[0] +=1
+        ans = 0
         
+        # to iterate over the array and calculate the subarrays
+        for ind in nums:
+
+            # what subracted from my current sum will give me k?
+            # sm - x = k
+            # sm - k = x
+            sm += ind
+            ans += memo[(sm - k)]
+            memo[sm] += 1
+
         return ans
-            
-        print(ps)
-                
+
+        
