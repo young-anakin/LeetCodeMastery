@@ -1,10 +1,10 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         dd = defaultdict(int)
-
+        arr = []
         l = 0
         r = 0
-        mx = 0
+        mx = -1
         # cp = 0
         while r < len(s):
             if dd[s[r]] == 0:
