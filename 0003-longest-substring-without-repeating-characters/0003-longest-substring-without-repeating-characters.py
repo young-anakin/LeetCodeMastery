@@ -1,23 +1,25 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        
-        if len(s) == 0:
-            return 0
-        # count the amount of characters
-        counter = defaultdict(int)
+        dd = defaultdict(int)
 
-
-        i = 0
-        j = 0
+        l = 0
+        r = 0
         mx = 0
-        while i < len(s):
-            counter[s[i]] +=1
-
-            while counter[s[i]] > 1:
-                counter[s[j]] -=1
-                j +=1
+        # cp = 0
+        while r < len(s):
+            if dd[s[r]] == 0:
+                dd[s[r]] +=1
+                r +=1
+            else:
+                while dd[s[r]] != 0:
+                    dd[s[l]] -=1
+                    l +=1
+                
+                dd[s[r]] +=1
+                r+=1
             
-            mx = max(mx, abs(i-j))
-            i +=1
+            mx = max(mx, abs(r-l))
         
-        return mx+1
+        mx = max(mx, abs(r-l))
+
+        return mx
