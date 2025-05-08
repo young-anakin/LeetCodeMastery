@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/young-anakin/LeetCodeMastery/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/young-anakin/LeetCodeMastery/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/young-anakin/LeetCodeMastery/tree/master/2846-robot-collisions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/young-anakin/LeetCodeMastery/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/young-anakin/LeetCodeMastery/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/young-anakin/LeetCodeMastery/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/young-anakin/LeetCodeMastery/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/young-anakin/LeetCodeMastery/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
