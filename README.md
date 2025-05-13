@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/young-anakin/LeetCodeMastery/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/young-anakin/LeetCodeMastery/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/young-anakin/LeetCodeMastery/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/young-anakin/LeetCodeMastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/young-anakin/LeetCodeMastery/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/young-anakin/LeetCodeMastery/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/young-anakin/LeetCodeMastery/tree/master/0162-find-peak-element) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/young-anakin/LeetCodeMastery/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/young-anakin/LeetCodeMastery/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/young-anakin/LeetCodeMastery/tree/master/0300-longest-increasing-subsequence) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/young-anakin/LeetCodeMastery/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/young-anakin/LeetCodeMastery/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/young-anakin/LeetCodeMastery/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/young-anakin/LeetCodeMastery/tree/master/0242-valid-anagram) |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/young-anakin/LeetCodeMastery/tree/master/0139-word-break) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/young-anakin/LeetCodeMastery/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
@@ -860,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/young-anakin/LeetCodeMastery/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Number Theory
 |  |
