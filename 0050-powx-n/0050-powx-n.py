@@ -1,16 +1,23 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        if n == 0:
-            return 1
-        elif n == 1:
-            return x
+        ans = 1
+        m = n
+        n = abs(n)
+        # x = abs(x)
         
-        val = self.myPow(x, abs(n//2))
-
-        if n < 0:
-            return 1/ (self.myPow(x, abs(n)))
-
-        if n %2 == 0:
-            return val * val
-        else:
-            return val * val * x
+        def rec(x, n):
+            if n == 0:
+                return 1
+            if n == 1:
+                return x
+            
+            if n % 2 == 0:
+                tmp = rec(x, n//2)
+                return tmp * tmp
+            else:
+                tmp = rec(x, n//2)
+                return x * tmp * tmp
+        
+        if m < 0:
+            return 1/rec(x, n)
+        return rec(x, n)
