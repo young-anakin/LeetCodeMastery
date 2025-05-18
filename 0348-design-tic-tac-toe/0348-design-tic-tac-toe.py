@@ -10,10 +10,10 @@ class TicTacToe:
     
     def check(self, up, down, player):
         directions = [
-            (0, 1), (0, -1),  # horizontal
-            (1, 0), (-1, 0),  # vertical
-            (1, 1), (-1, -1), # diagonal
-            (1, -1), (-1, 1)  # anti-diagonal
+            (0, 1),  # horizontal
+            (1, 0),  # vertical
+            (1, 1),# diagonal
+            (1, -1) # anti-diagonal
         ]
         
         for dx, dy in directions:
