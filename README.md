@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/young-anakin/LeetCodeMastery/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/young-anakin/LeetCodeMastery/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/young-anakin/LeetCodeMastery/tree/master/0403-frog-jump) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/young-anakin/LeetCodeMastery/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/young-anakin/LeetCodeMastery/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/young-anakin/LeetCodeMastery/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0387-first-unique-character-in-a-string) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0258-add-digits) |
+| [0348-design-tic-tac-toe](https://github.com/young-anakin/LeetCodeMastery/tree/master/0348-design-tic-tac-toe) |
 | [0495-teemo-attacking](https://github.com/young-anakin/LeetCodeMastery/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -811,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0348-design-tic-tac-toe](https://github.com/young-anakin/LeetCodeMastery/tree/master/0348-design-tic-tac-toe) |
 | [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0661-image-smoother](https://github.com/young-anakin/LeetCodeMastery/tree/master/0661-image-smoother) |
 | [0945-snakes-and-ladders](https://github.com/young-anakin/LeetCodeMastery/tree/master/0945-snakes-and-ladders) |
@@ -896,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/young-anakin/LeetCodeMastery/tree/master/0155-min-stack) |
+| [0348-design-tic-tac-toe](https://github.com/young-anakin/LeetCodeMastery/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0731-my-calendar-ii) |
