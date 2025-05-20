@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0402-remove-k-digits) |
+| [0434-number-of-segments-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/young-anakin/LeetCodeMastery/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/young-anakin/LeetCodeMastery/tree/master/0482-license-key-formatting) |
