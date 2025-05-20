@@ -1,23 +1,19 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         
-        # store as tuples the key, value pairs of the values
+        new = []
 
-        organized = []
-        for val in strs:
-            word = [i for i in val]
-            word.sort()
-            organized.append((val, tuple(word)))
+        for word in strs:
+            tmp = [i for i in word]
+            tmp.sort()
+            tmp = "".join(tmp)
+            new.append((tmp, word))
+        
+        dd = defaultdict(list)
+        print(new)
+        for word in new:
+            dd[word[0]].append(word[1])
+        
 
-        # print(organized)
-
-        cp = defaultdict(list)
-        
-        for a, b in organized:
-            cp[b].append(a)
-        
-        ans = []
-        for key, val in cp.items():
-            ans.append(val)
-        
+        ans = [val for val in dd.values()]
         return ans
