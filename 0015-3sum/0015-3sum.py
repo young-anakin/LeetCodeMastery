@@ -1,29 +1,37 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
+
         nums.sort()
-        res = []
-
-        for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue  # avoid duplicates
-
-            left, right = i + 1, len(nums) - 1
-
+        print(nums)
+        ans = set()
+        def twoSum(i, x):
+            left = i
+            right = len(nums)-1
             while left < right:
-                total = nums[i] + nums[left] + nums[right]
-                if total < 0:
-                    left += 1
-                elif total > 0:
-                    right -= 1
+                if nums[left] + nums[right] == - nums[x]:
+                    y = [nums[x]]
+                    y.extend(list((nums[left], nums[right])))
+                    # print(x)
+                    ans.add(tuple(y))
+                    left +=1
+                    right -=1
+                # return (nums[left], nums[right])
+                elif nums[left] + nums[right] < - nums[x]:
+                    left +=1
                 else:
-                    res.append([nums[i], nums[left], nums[right]])
-                    left += 1
-                    right -= 1
+                    right -=1
+            return None
+        for i in range(len(nums)):
+            # i + j + k = 0
+            # j + k = -i
+            # for j in range(i+1, len(nums)):
+                # print(twoSum(j), )
+            steve = twoSum(i+1, i)
+            if steve != None:
+                # print(twoSum(j))
+                x = [nums[i]]
+                x.extend(list((steve[0], steve[1])))
+                # print(x)
+                ans.add(tuple(x))
 
-                    # skip duplicates
-                    while left < right and nums[left] == nums[left - 1]:
-                        left += 1
-                    while left < right and nums[right] == nums[right + 1]:
-                        right -= 1
-
-        return res
+        return list(set(ans))
