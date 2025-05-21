@@ -22,16 +22,8 @@ class Solution:
                     right -=1
             return None
         for i in range(len(nums)):
-            # i + j + k = 0
-            # j + k = -i
-            # for j in range(i+1, len(nums)):
-                # print(twoSum(j), )
-            steve = twoSum(i+1, i)
-            if steve != None:
-                # print(twoSum(j))
-                x = [nums[i]]
-                x.extend(list((steve[0], steve[1])))
-                # print(x)
-                ans.add(tuple(x))
+
+            twoSum(i+1, i)
+
 
         return list(set(ans))
