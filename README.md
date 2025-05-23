@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/young-anakin/LeetCodeMastery/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/young-anakin/LeetCodeMastery/tree/master/0495-teemo-attacking) |
+| [0503-next-greater-element-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/young-anakin/LeetCodeMastery/tree/master/0560-subarray-sum-equals-k) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/young-anakin/LeetCodeMastery/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/young-anakin/LeetCodeMastery/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/young-anakin/LeetCodeMastery/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
