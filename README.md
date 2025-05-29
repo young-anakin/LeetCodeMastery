@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/young-anakin/LeetCodeMastery/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/young-anakin/LeetCodeMastery/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/young-anakin/LeetCodeMastery/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0261-graph-valid-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/young-anakin/LeetCodeMastery/tree/master/0399-evaluate-division) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/young-anakin/LeetCodeMastery/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/young-anakin/LeetCodeMastery/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/young-anakin/LeetCodeMastery/tree/master/0744-network-delay-time) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/young-anakin/LeetCodeMastery/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/young-anakin/LeetCodeMastery/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0508-most-frequent-subtree-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0508-most-frequent-subtree-sum) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/young-anakin/LeetCodeMastery/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0904-leaf-similar-trees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/young-anakin/LeetCodeMastery/tree/master/0988-flip-equivalent-binary-trees) |
