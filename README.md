@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/young-anakin/LeetCodeMastery/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0118-pascals-triangle) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/young-anakin/LeetCodeMastery/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/young-anakin/LeetCodeMastery/tree/master/0813-all-paths-from-source-to-target) |
