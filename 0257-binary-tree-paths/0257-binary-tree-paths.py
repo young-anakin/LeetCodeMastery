@@ -7,18 +7,28 @@
 class Solution:
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
         
-        ans = []
-        def traverse(node, val):
-            if not node:
+        bucket = list()
+        def backtracking(node, path):
+            if node == None:
                 return
-            if not node.left and not node.right:
-                val.append(str(node.val))
-                ans.append("->".join(val))
+            if node.left == None and node.right == None:
+                # we add the path to our bucket
+                path.append(str(node.val))
+                bucket.append(path)
                 return
-            val.append(str(node.val))
-            traverse(node.left, val[:] )
-            traverse(node.right, val[:] )
+            
+            path.append(str(node.val))
+            backtracking(node.left, path.copy())
+            # path.pop()
+            backtracking(node.right, path.copy())
 
+        backtracking(root, [])
+        # print(bucket)
+
+        ans = []
+        for val in bucket:
+            tmp = "->".join(val)
+            ans.append(tmp)
         
-        traverse(root, [])
         return (ans)
+
