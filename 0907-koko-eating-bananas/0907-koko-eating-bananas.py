@@ -1,22 +1,32 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
+        # N Log N
 
-        def checker(k):
-            cp = 0
-            for ind in piles:
-                cp += math.ceil(ind/k)
-            if cp <= h:
-                return True
-            return False
+        # K -> per hour banana we want to minimize k
+
+
+        # We are trying to guess K -> Banana eating rate per hour
+
+        def check(md):
+            
+            bananas = 0
+            for val in piles:
+                bananas += ceil(val/md)
+            
+            return bananas <= h
+
         
-        left = 1
-        right = sum(piles)
+        low = 1
+        high = sum(piles)
+        valid = float('inf')
+        while low <= high:
+            md = (low + high)//2
 
-        while left < right:
-            md = (left+right)//2
-            if checker(md):
-                right = md
+            if check(md):
+                valid = min(md, valid)
+                high = md-1
             else:
-                left = md+1
+                low = md + 1
+        
+        return valid
 
-        return right
