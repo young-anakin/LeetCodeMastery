@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/young-anakin/LeetCodeMastery/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0507-perfect-number) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/young-anakin/LeetCodeMastery/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/young-anakin/LeetCodeMastery/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/young-anakin/LeetCodeMastery/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
