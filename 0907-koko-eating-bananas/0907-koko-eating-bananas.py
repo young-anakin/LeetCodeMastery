@@ -1,32 +1,31 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        # N Log N
 
-        # K -> per hour banana we want to minimize k
+        
+        # we want to choose k bananas/hour 
 
+        def bananaPerHour(k):
+            bph = 0
 
-        # We are trying to guess K -> Banana eating rate per hour
-
-        def check(md):
-            
-            bananas = 0
             for val in piles:
-                bananas += ceil(val/md)
-            
-            return bananas <= h
+                bph += math.ceil(val/k)
 
+            return bph <= h
         
-        low = 1
-        high = sum(piles)
-        valid = float('inf')
-        while low <= high:
-            md = (low + high)//2
+        ans = 0
+        def binarySearch(low, high):
+            nonlocal ans
+            while low <= high:
+                md = (low + high)//2
 
-            if check(md):
-                valid = min(md, valid)
-                high = md-1
-            else:
-                low = md + 1
+                # if valid
+                if bananaPerHour(md):
+                    ans = md
+                    high = md - 1
+                else:
+                    low = md + 1
         
-        return valid
-
+        binarySearch(1, sum(piles))
+        return ans
+        
+# O(NlogN)
