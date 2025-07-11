@@ -3,17 +3,21 @@ class Solution:
         
         # checker function
         def checker(md):
-                capacity = 0
-                expectedDays = 0
-                for val in weights:
-                    capacity += val
-                    if capacity > md:
-                        expectedDays +=1
-                        capacity = val
-                
-                expectedDays +=1
+            # if we can ship -> return True
 
-                return expectedDays <= days
+            capacity = 0
+            curr = 0
+            for ind in weights:
+                curr += ind
+                if curr <= md:
+                    continue
+                else:
+                    capacity += 1
+                    curr = ind
+            
+            capacity +=1
+            
+            return capacity <= days
 
 
         # Binary Search function
