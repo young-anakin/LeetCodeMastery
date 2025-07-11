@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/young-anakin/LeetCodeMastery/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/young-anakin/LeetCodeMastery/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/young-anakin/LeetCodeMastery/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0258-add-digits) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/young-anakin/LeetCodeMastery/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/young-anakin/LeetCodeMastery/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
