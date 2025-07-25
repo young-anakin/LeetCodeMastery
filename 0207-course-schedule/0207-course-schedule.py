@@ -1,36 +1,45 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        if len(prerequisites) == 0:
-            return True
-
-        indegree = defaultdict(list)
-        dependency = defaultdict(int)
-
-        for i, j in prerequisites:
-            indegree[j].append(i)
-            dependency[i] +=1
         
-        processed = 0
 
-        queue = deque()
+        # we have n courses
+
+        # [ai, bi] - inorder to take course ai, we first have to take course bi
+
+        # Will a person take all of the courses? 
+
+
+        # Number of courses dependent on a certain course
+        dependent = defaultdict(int)
+        dependentList = defaultdict(list)
+
+        for ai, bi in prerequisites:
+            dependent[ai] +=1
+            dependentList[bi].append(ai)
+
+        # First in First out principle (FIFO)
+        nodependent = deque()        
 
         for i in range(numCourses):
-            if dependency[i] == 0:
-                queue.append(i)
-                processed +=1
-        print(indegree)
-        print(queue)
-        while queue:
-            val = queue.popleft()
-            processed +=1
-            for i in indegree[val]:
-                dependency[i] -=1
-                if dependency[i] == 0:
-                    queue.append(i)
+            if dependent[i] == 0:
+                nodependent.append(i)
 
-        print(dependency)
-        for key, val in dependency.items():
-            if val > 0:
-                return False
+        finishedCourses = 0
+
+        # Whilst I have a no Current dependent Course, I want to iterate
+        while nodependent:
+
+            currentCourse = nodependent.popleft()
+            finishedCourses +=1
+
+            for val in dependentList[currentCourse]:
+                dependent[val] -=1
+                if dependent[val] == 0:
+                    nodependent.append(val)
         
-        return True
+        if finishedCourses == numCourses:
+            return True
+        return False
+
+
+
