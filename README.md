@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/young-anakin/LeetCodeMastery/tree/master/0813-all-paths-from-source-to-target) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+| [1039-find-the-town-judge](https://github.com/young-anakin/LeetCodeMastery/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/young-anakin/LeetCodeMastery/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/young-anakin/LeetCodeMastery/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/young-anakin/LeetCodeMastery/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/young-anakin/LeetCodeMastery/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/young-anakin/LeetCodeMastery/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/young-anakin/LeetCodeMastery/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1105-uncrossed-lines](https://github.com/young-anakin/LeetCodeMastery/tree/master/1105-uncrossed-lines) |
 | [1233-number-of-ships-in-a-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/1233-number-of-ships-in-a-rectangle) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/0869-similar-string-groups) |
 | [0926-find-and-replace-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0926-find-and-replace-pattern) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1039-find-the-town-judge](https://github.com/young-anakin/LeetCodeMastery/tree/master/1039-find-the-town-judge) |
 | [1272-invalid-transactions](https://github.com/young-anakin/LeetCodeMastery/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/young-anakin/LeetCodeMastery/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1364-tuple-with-same-product](https://github.com/young-anakin/LeetCodeMastery/tree/master/1364-tuple-with-same-product) |
