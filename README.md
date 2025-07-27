@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/young-anakin/LeetCodeMastery/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0475-heaters) |
+| [0486-predict-the-winner](https://github.com/young-anakin/LeetCodeMastery/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/young-anakin/LeetCodeMastery/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0503-next-greater-element-ii) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/young-anakin/LeetCodeMastery/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/young-anakin/LeetCodeMastery/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/young-anakin/LeetCodeMastery/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/young-anakin/LeetCodeMastery/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/young-anakin/LeetCodeMastery/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/young-anakin/LeetCodeMastery/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/young-anakin/LeetCodeMastery/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/young-anakin/LeetCodeMastery/tree/master/0486-predict-the-winner) |
 | [1197-parsing-a-boolean-expression](https://github.com/young-anakin/LeetCodeMastery/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
@@ -1027,4 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/young-anakin/LeetCodeMastery/tree/master/0332-reconstruct-itinerary) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/young-anakin/LeetCodeMastery/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
