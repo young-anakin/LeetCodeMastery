@@ -1,6 +1,7 @@
 class Solution:
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
         
+        # O(V + E)
         graph = defaultdict(list)
         
         for a, b in edges:
@@ -8,19 +9,22 @@ class Solution:
             graph[b].append(a)
         
 
-        fl = False
-        def dfs(node, visited):
-            nonlocal fl
-            # 2 == destination
+
+        stack = [source]
+        visited = set([source])
+        while stack:
+            node = stack.pop()
             if node == destination:
-                fl = True 
                 return True
+            
             for neigh in graph[node]:
                 if neigh not in visited:
+                    stack.append(neigh)
                     visited.add(neigh)
-                    if dfs(neigh, visited):
-                        return True
         
-        dfs(source, set())
-        return fl
+        return False
+            
+
+
+
 
