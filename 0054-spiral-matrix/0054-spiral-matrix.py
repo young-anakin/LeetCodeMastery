@@ -1,86 +1,40 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        ans  = []
-        arr = matrix
-
-
-        right = True
-        down = False
-        left = False
-        up = False
-
-
-        ind = 0
-        j = 0
-
-        top = 0
-        bottom = 0
-        sideL = 0
-        sideR = 0
-        print(len(matrix) * len(matrix[0]))
-        for cp in range(len(matrix) * len(matrix[0])):
-            if right:
-                if j >= len(arr[0]) - sideR:
-                    down = True
-                    right = False
-                    ind +=1
-                    top +=1
-                    j-=1
-                else:
-                    ans.append(arr[ind][j])
-                    j +=1
-                    
-            if down:
-                if ind >= len(arr) - bottom:
-                    down = False
-                    left = True
-                    j -=1
-                    sideR +=1
-                    ind -=1
-                else:
-                    ans.append(arr[ind][j])
-                    ind +=1
-
-            if left:
-                if j < 0 + sideL:
-                    up = True
-                    left = False
-                    ind -=1
-                    sideL +=1
-                    j +=1
-                else:
-                    ans.append(arr[ind][j])
-                    j -=1
-
-            fl = False
-            if up:
-                if ind < 0 + top:
-                    right = True
-                    up = False
-                    j +=1
-                    bottom +=1
-                    ind +=1
-                    fl = True
-                else:
-                    ans.append(arr[ind][j])
-                    ind -=1
-
-
-            if fl and right:
-                fl = False
-                if j >= len(arr[0]) - sideR:
-                    down = True
-                    right = False
-                    ind +=1
-                    top +=1
-                    j-=1
-                else:
-                    ans.append(arr[ind][j])
-                    j +=1
         
-        return ans
-
-
-
-
+        rows = len(matrix)
+        cols = len(matrix[0])
+        
+        top = 0
+        bottom = rows - 1
+        left = 0
+        right = cols - 1
+        
+        answer = []
+        
+        while len(answer) < rows * cols:
+            # append the first row values starting from the left
+            for index in range(left, right + 1):
+                answer.append(matrix[top][index])
+            top += 1
+            # 1 2 3
+            # from the top right to the bottom right 
+            for index in range(top, bottom + 1):
+                answer.append(matrix[index][right])
+            right -= 1
+            # 1 2 3 6 9 
             
+            # from right to left
+            if top <= bottom: 
+                for index in range(right, left - 1, -1):
+                    answer.append(matrix[bottom][index])
+
+                bottom -= 1
+            # 1 2 3 6 9 8 7
+            
+            # from bottom to the top
+            if left <= right:
+                for index in range(bottom, top - 1, -1):
+                    answer.append(matrix[index][left])
+                left += 1
+            
+        return answer
