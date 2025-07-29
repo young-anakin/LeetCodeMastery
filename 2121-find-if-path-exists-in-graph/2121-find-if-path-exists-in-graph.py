@@ -11,13 +11,15 @@ class Solution:
         fl = False
         def dfs(node, visited):
             nonlocal fl
+            # 2 == destination
             if node == destination:
                 fl = True 
-            
+                return True
             for neigh in graph[node]:
                 if neigh not in visited:
                     visited.add(neigh)
-                    dfs(neigh, visited)
+                    if dfs(neigh, visited):
+                        return True
         
         dfs(source, set())
         return fl
