@@ -8,16 +8,19 @@ class Solution:
     def isUnivalTree(self, root: Optional[TreeNode]) -> bool:
         
         ss = set()
+        queue = deque()
 
         
-        def dfs(node):
-            if node == None:
-                return 
-            
-            ss.add(node.val)
-            dfs(node.left)
-            dfs(node.right)
+        queue.append(root)
+
+        while queue:
+            curr = queue.popleft()
+            if curr != None:
+                ss.add(curr.val)
+                queue.append(curr.left)
+                queue.append(curr.right)
         
 
-        dfs(root)
+
+        # dfs(root)
         return len(ss) == 1
