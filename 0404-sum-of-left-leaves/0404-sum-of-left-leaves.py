@@ -11,18 +11,20 @@ class Solution:
 
         sm = 0
 
-        # if it's left -> True (check)
-        def dfs(node, check):
-            nonlocal sm
-            if not node:
-                return
-            
+        queue = deque()
+        
+        queue.append((root, False))
+
+        while queue:
+            node, check = queue.popleft()
+            if node == None:
+                continue
             if check == True and node.left == None and node.right == None:
                 sm += node.val
-            
-            dfs(node.left, True)
-            dfs(node.right, False)
-        
-        dfs(root, False)
+
+            queue.append((node.left, True))
+            queue.append((node.right, False))
+
+
 
         return sm
