@@ -1,32 +1,37 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-        start = 0
-        end = len(graph)-1
-
-        traverse = defaultdict(list)
-
-        for i, val in enumerate(graph):
-            traverse[i].extend(val)
         
-
-        visited = set()
         queue = deque()
+        target = len(graph)-1
+        result = list()
         queue.append((0, [0]))
-        ans = []
+
+        dd = defaultdict(list)
+        for i, val in enumerate(graph):
+            dd[i].extend(val)
+
+        # print(dd)
+        # path = [ptr, ptr, ptr, ptr]
+        # path = [0, 1, 2]
+        # new_path = [0,1]
+        # new_path = [0,2]
         while queue:
-            val, arr = queue.popleft()
-            if val == end:
-                ans.append(arr)
-            # visited.add(val)
-            for i in traverse[val]:
-                # if i in visite
-                tmp = arr[:]
-                tmp.append(i)
-                queue.append((i, tmp))
-                # visited.add(i)
+            # currval, array
+            curr, path = queue.popleft()
+            # print(curr, path)
+            if curr == target:
+                result.append(path)
+                continue
+            
+            for neigh in dd[curr]:
+                # print("Neight", neigh)
+                new_path = path.copy()
+                new_path.append(neigh)
+                queue.append((neigh, new_path)) 
         
-        return ans
+        return result
+            
 
+            
 
-
-        # print(traverse)
+            
