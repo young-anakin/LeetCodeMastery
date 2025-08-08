@@ -6,20 +6,21 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
+
+        queue = deque()
+
         cp = 0
-        # mx = float("-inf")
-        def dfs(node, mx):
-            nonlocal cp
+        queue.append((root, root.val))
+
+        while queue:
+            node, curr_max = queue.popleft()
             if node == None:
-                return
-            
-            if node.val >= mx:
-                mx = node.val
+                continue
+            if curr_max <= node.val:
                 cp +=1
             
-            dfs(node.left, mx)
-            dfs(node.right, mx)
+            queue.append((node.left, max(curr_max, node.val)))
+            queue.append((node.right, max(curr_max, node.val)))
         
-        dfs(root, float("-inf"))
-
         return cp
+        
