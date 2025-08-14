@@ -1,29 +1,31 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        visited = set()
+        
+        ans = list()
 
-        remaining = defaultdict(int)
-        path = defaultdict(list)
-        for ind, val in enumerate(graph):
-            for z in val:
-                remaining[ind] +=1
-                path[z].append(ind)
+        dependents = defaultdict(list)
+        safeCount = defaultdict(int)
 
-        queue = deque()
-        for ind in range(len(graph)):
-            if len(graph[ind]) == 0:
-                visited.add(ind)
-                queue.append(ind)
+        for i, val in enumerate(graph):
 
-        while queue:
-            val = queue.popleft()
-            for ind in path[val]:
-                remaining[ind] -=1
-                # print(ind, val)
-                if remaining[ind] == 0 and val in visited:
-                    visited.add(ind)
-                    queue.append(ind)
-        visited =  list(visited)
-        visited.sort()
+            for j in val:
+                dependents[j].append(i)
+                safeCount[i] +=1
+        
+        safeNodes = deque()
+        for i in range(len(graph)):
+            if safeCount[i] == 0:
+                safeNodes.append(i)
+        
+        while safeNodes:
+            val = safeNodes.popleft()
+            ans.append(val)
+            for ind in dependents[val]:
+                safeCount[ind] -=1
+                if safeCount[ind] == 0:
+                    safeNodes.append(ind)
+        
+        ans.sort()
+        return ans
 
-        return visited
+
