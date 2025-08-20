@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/young-anakin/LeetCodeMastery/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/young-anakin/LeetCodeMastery/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/young-anakin/LeetCodeMastery/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/young-anakin/LeetCodeMastery/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/young-anakin/LeetCodeMastery/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/2089-maximum-matrix-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/young-anakin/LeetCodeMastery/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/young-anakin/LeetCodeMastery/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/young-anakin/LeetCodeMastery/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/2089-maximum-matrix-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/young-anakin/LeetCodeMastery/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/young-anakin/LeetCodeMastery/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/young-anakin/LeetCodeMastery/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
