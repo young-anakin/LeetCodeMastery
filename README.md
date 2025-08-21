@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/young-anakin/LeetCodeMastery/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/2121-find-if-path-exists-in-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/young-anakin/LeetCodeMastery/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/young-anakin/LeetCodeMastery/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/2439-longest-cycle-in-a-graph) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/young-anakin/LeetCodeMastery/tree/master/2678-design-graph-with-shortest-path-calculator) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/young-anakin/LeetCodeMastery/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/young-anakin/LeetCodeMastery/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/young-anakin/LeetCodeMastery/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/young-anakin/LeetCodeMastery/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/young-anakin/LeetCodeMastery/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/young-anakin/LeetCodeMastery/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/young-anakin/LeetCodeMastery/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/young-anakin/LeetCodeMastery/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/young-anakin/LeetCodeMastery/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/young-anakin/LeetCodeMastery/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/young-anakin/LeetCodeMastery/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/young-anakin/LeetCodeMastery/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/young-anakin/LeetCodeMastery/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/young-anakin/LeetCodeMastery/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/young-anakin/LeetCodeMastery/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/2448-count-number-of-bad-pairs) |
@@ -977,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/young-anakin/LeetCodeMastery/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/young-anakin/LeetCodeMastery/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/2439-longest-cycle-in-a-graph) |
 ## Memoization
 |  |
