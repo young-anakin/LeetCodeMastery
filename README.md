@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/young-anakin/LeetCodeMastery/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/young-anakin/LeetCodeMastery/tree/master/1396-count-servers-that-communicate) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/young-anakin/LeetCodeMastery/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/young-anakin/LeetCodeMastery/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1380-number-of-closed-islands](https://github.com/young-anakin/LeetCodeMastery/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/young-anakin/LeetCodeMastery/tree/master/1396-count-servers-that-communicate) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/young-anakin/LeetCodeMastery/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1876-map-of-highest-peak](https://github.com/young-anakin/LeetCodeMastery/tree/master/1876-map-of-highest-peak) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1039-find-the-town-judge](https://github.com/young-anakin/LeetCodeMastery/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/young-anakin/LeetCodeMastery/tree/master/1325-path-with-maximum-probability) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/young-anakin/LeetCodeMastery/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/young-anakin/LeetCodeMastery/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -985,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/young-anakin/LeetCodeMastery/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/young-anakin/LeetCodeMastery/tree/master/0881-loud-and-rich) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/young-anakin/LeetCodeMastery/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/young-anakin/LeetCodeMastery/tree/master/2439-longest-cycle-in-a-graph) |
 ## Memoization
