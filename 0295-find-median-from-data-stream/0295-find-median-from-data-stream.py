@@ -2,10 +2,14 @@ class MedianFinder:
     def __init__(self):
         # stores the large numbers -> minHeap -> when we pop we pop the smallest element
         self.minHeap = []
+        heapq.heapify(self.minHeap)
+
         # stores the smallest numbers -> maxHeap -> -1 * val
         self.maxHeap = []
+        heapq.heapify(self.minHeap)
 
     def addNum(self, num: int) -> None:
+
         heappush(self.maxHeap, -num)
         heappush(self.minHeap, -1 * heappop(self.maxHeap))
         if len(self.minHeap) > len(self.maxHeap):
