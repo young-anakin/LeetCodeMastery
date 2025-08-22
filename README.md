@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/young-anakin/LeetCodeMastery/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/young-anakin/LeetCodeMastery/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/young-anakin/LeetCodeMastery/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/young-anakin/LeetCodeMastery/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/young-anakin/LeetCodeMastery/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/young-anakin/LeetCodeMastery/tree/master/0768-partition-labels) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/young-anakin/LeetCodeMastery/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/young-anakin/LeetCodeMastery/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/young-anakin/LeetCodeMastery/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/young-anakin/LeetCodeMastery/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/young-anakin/LeetCodeMastery/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/young-anakin/LeetCodeMastery/tree/master/0451-sort-characters-by-frequency) |
@@ -1023,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/young-anakin/LeetCodeMastery/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/0295-find-median-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/young-anakin/LeetCodeMastery/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/young-anakin/LeetCodeMastery/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/young-anakin/LeetCodeMastery/tree/master/0729-my-calendar-i) |
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/0295-find-median-from-data-stream) |
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
 | [1775-design-an-ordered-stream](https://github.com/young-anakin/LeetCodeMastery/tree/master/1775-design-an-ordered-stream) |
 ## Randomized
