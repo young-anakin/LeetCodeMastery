@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/young-anakin/LeetCodeMastery/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/young-anakin/LeetCodeMastery/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1013-fibonacci-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/young-anakin/LeetCodeMastery/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/young-anakin/LeetCodeMastery/tree/master/1105-uncrossed-lines) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/young-anakin/LeetCodeMastery/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/0507-perfect-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/young-anakin/LeetCodeMastery/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/young-anakin/LeetCodeMastery/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/young-anakin/LeetCodeMastery/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/young-anakin/LeetCodeMastery/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/young-anakin/LeetCodeMastery/tree/master/1477-product-of-the-last-k-numbers) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/young-anakin/LeetCodeMastery/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/young-anakin/LeetCodeMastery/tree/master/0486-predict-the-winner) |
+| [1013-fibonacci-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/young-anakin/LeetCodeMastery/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/young-anakin/LeetCodeMastery/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Queue
@@ -1006,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/young-anakin/LeetCodeMastery/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/young-anakin/LeetCodeMastery/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1013-fibonacci-number](https://github.com/young-anakin/LeetCodeMastery/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
