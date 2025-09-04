@@ -5,8 +5,8 @@ class Solution:
 
         # Knapsack ( one turn , we take . Another turn, we leave) -> Take it or leave it
         ans = 0
+        memo = defaultdict(int)
 
-        @cache
         def dp(ind, curr_amount):
             # Base case
 
@@ -17,8 +17,8 @@ class Solution:
             
             if curr_amount == amount:
                 return 1
-            
-            return dp(ind, curr_amount + coins[ind]) + dp(ind+1, curr_amount) 
+            if (ind, curr_amount) not in  memo:
+                memo[(ind, curr_amount)] = dp(ind, curr_amount + coins[ind]) + dp(ind+1, curr_amount) 
 
-
+            return memo[(ind, curr_amount)]
         return dp(0, 0)
